@@ -1,1 +1,1 @@
-# lenet-5-CNN-accelerator-engine
+# lenet-5 accelerator engine
